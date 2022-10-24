@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="PM2E16359" type="JUnit" factoryName="JUnit">
+    <option name="PACKAGE_NAME" value="C:\Users\SARITA\AndroidStudioProjects\PM013P01" />
+    <option name="MAIN_CLASS_NAME" value="" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="package" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
